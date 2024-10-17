@@ -1,4 +1,6 @@
-public class Rectangle implements Shape{
+package SOLID;
+
+public class Rectangle implements Shape {
     private double length;
     private double height;
 

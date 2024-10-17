@@ -1,4 +1,6 @@
-public class Square implements Shape{
+package SOLID;
+
+public class Square implements Shape {
     private double sideLength;
 
     public double getSideLength() {
